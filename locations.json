@@ -1,44 +1,30 @@
 [
   {
-    "id" : "serengeti",
-    "name" : "Serengeti National Park",
-    "image" : "map-serengeti",
-    "latitude" : -2.3333333,
-    "longitude" : 34.8333333
+    "id" : "first",
+    "name" : "5. Element fine dinning",
+    "image" : "https://lh5.googleusercontent.com/p/AF1QipPN-59ZwSrGbEPk6Ut5GIXhHU6gFts6OMdG6gf1=w408-h269-k-no",
+    "latitude" : 43.14330198587581,
+    "longitude" : 20.51537274233002
   },
   {
-    "id" : "kruger",
-    "name" : "Kruger National Park",
-    "image" : "map-kruger",
-    "latitude" : -23.9883848,
-    "longitude" : 31.5525515
+    "id" : "second",
+    "name" : "Plava Laguna Restaurant & Caffe",
+    "image" : "https://lh5.googleusercontent.com/p/AF1QipN9mozvuSzWT7cqy3zPTqjImNUqwYMUWj2lUh0E=w408-h272-k-no",
+    "latitude" : 43.14055931430008,
+    "longitude" : 20.509527500000004
   },
   {
-    "id" : "chobe",
-    "name" : "Chobe National Park",
-    "image" : "map-chobe",
-    "latitude" : -18.7305642,
-    "longitude" : 24.4292148
+    "id" : "third",
+    "name" : "Doha restoran",
+    "image" : "https://lh5.googleusercontent.com/p/AF1QipOAjAlL4grgiBTGd4iKDTTiYUHkj0-0xIykx89d=w426-h240-k-no",
+    "latitude" : 43.14292781414842,
+    "longitude" : 20.51557304233002
   },
   {
-    "id" : "kidepo",
-    "name" : "Kidepo Valley National Park",
-    "image" : "map-kidepo",
-    "latitude" : 3.8495757,
-    "longitude" : 33.7525049
-  },
-  {
-    "id" : "etosha",
-    "name" : "Etosha National Park",
-    "image" : "map-etosha",
-    "latitude" : -18.8555909,
-    "longitude" : 16.327131
-  },
-  {
-    "id" : "solonga",
-    "name" : "Solonga National Park",
-    "image" : "map-solonga",
-    "latitude" : -1.9999932,
-    "longitude" : 21.0002492
+    "id" : "forth",
+    "name" : "City Talk Caffe Restaurant",
+    "image" : "https://lh5.googleusercontent.com/p/AF1QipNQpIsXuhV0XUXppjcHDzFfxxGwJn3tNZr1mJ7Q=w408-h544-k-no",
+    "latitude" : 43.14318010108113,
+    "longitude" : 20.5187464
   }
 ]
