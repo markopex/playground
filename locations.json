@@ -26,5 +26,12 @@
     "image" : "https://lh5.googleusercontent.com/p/AF1QipNQpIsXuhV0XUXppjcHDzFfxxGwJn3tNZr1mJ7Q=w408-h544-k-no",
     "latitude" : 43.14318010108113,
     "longitude" : 20.5187464
+  },
+  {
+    "id" : "fifth",
+    "name" : "Restoran Balkan",
+    "image" : "https://lh5.googleusercontent.com/p/AF1QipMZdP1vjicIMuizzyFhqRlewPCPZd-J0KN5EDlE=w408-h306-k-no",
+    "latitude" : 43.133628802876736,
+    "longitude" : 20.52075505116961
   }
 ]
